@@ -2,21 +2,26 @@
 
 
 
-For running normally
+<h1>For running normally</h1>
 direct copy paste the code into any c compiler
-For Runing into the terminal
-first find any terminal like
+<h1>For Runing into the terminal</h1>
+<h2>first find any terminal like</h2>
+<ul>
 turmex
 kali
 ubantu
 Arch
-Any other linux distro
-then follow thw command sequence wise for turmex
+Any other linux distro</ul>
+<h3>then follow thw command sequence wise for turmex</h3>
+
+<ol>
 pkg update && upgrade -y
 pkg install git -y
-git clone https://github.com/Krishna143214/MASSAGE_ENCRYPTOR_DECRYPTIOR_MID_LEVEL_PROJECT.git
+git clone 
 pkg install clang
 cd MASSAGE_ENCRYPTOR_DECRYPTIOR_MID_LEVEL_PROJECT
 clang encryptor_decryptor.c -o exe
 ./exe
+
+  </ol>
 DONE ! :) Enjoy
